@@ -1,0 +1,36 @@
+P.first{
+		
+		  color:black;
+		  background-color:green;
+		  font-family:Verdana,Times New Roman,Courier;
+		  font-size:20px;
+		  margin-left:20px;
+		  padding:20px;
+		  border:10px groove red;
+		  border-radius:15px;
+		 }
+		 
+P.second{
+		
+		  color:black;
+		  background-color:red;
+}
+		  
+		h2{
+				text-align:center;
+				text-transform:uppercase;
+				text-shadow:5px 15px gray;
+				letter-spacing:2px;
+				word-spacing:10px;
+					
+		}	
+
+
+		a{
+			text-decoration:none;
+		}
+		
+		a:hover{
+			color:red;
+			background-color:powderblue;
+		}
